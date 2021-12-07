@@ -1,0 +1,20 @@
+.MoviesList {
+  list-style: none;
+  color: black;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.MoviesListLink {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.MoviesListLink:hover {
+  font-size: 18px;
+  color : palevioletred;
+}
+
+.MoviesListLink:visited {
+  color: palevioletred;
+}
